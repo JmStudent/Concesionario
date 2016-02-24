@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mCar">
+        <item>Modelo...</item>
+        <item>Utilitario</item>
+        <item>Berlina</item>
+        <item>Deportivo</item>
+    </string-array>
+</resources>

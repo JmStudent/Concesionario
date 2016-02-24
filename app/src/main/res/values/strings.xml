@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Concesionario</string>
+    <string name="titulo">Compra tu coche</string>
+    <string name="red">Rojo</string>
+    <string name="green">Verde</string>
+    <string name="blue">Azul</string>
+    <string name="preview">Previsualizar</string>
+    <string name="extras">Extras</string>
+    <string name="aaExtra">Aire Acondicionado - 250€</string>
+    <string name="acExtra">Asientos cuero - 150€</string>
+    <string name="rvExtra">Reproductor Video - 100€</string>
+    <string name="spExtra">Sensor parking - 95€</string>
+    <string name="calculate">Calcular</string>
+</resources>
